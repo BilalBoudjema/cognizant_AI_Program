@@ -32,6 +32,12 @@ I am thrilled to join Cognizant! In this program, I will step into the role of a
 
 This simulation is a risk-free opportunity to experience working with Cognizant. It's a chance for me to practice my skills, build confidence, and potentially explore a career with Cognizant. This program is an excellent resource to up-skill and strengthen my resume.
 
+## Main Tasks : 
+- Completed a job simulation focused on AI for Cognizant’s Data Science team.
+- Conducted exploratory data analysis using Python and Google Colab for one of Cognizant’s technology-led clients, Gala Groceries.
+- Prepare a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
+- Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
+
 ---
 
 **Note:** This README is part of a repository for the Cognizant Artificial Intelligence Job Simulation program.
